@@ -1,16 +1,2 @@
-<<<<<<< HEAD
-branche master
-=======
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
->>>>>>> features/test
+if(a==9)
+    reset
