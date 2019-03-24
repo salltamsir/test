@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 branche master
+=======
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+>>>>>>> features/test
